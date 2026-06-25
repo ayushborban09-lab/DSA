@@ -7,20 +7,20 @@ public class OddEven {
         Scanner sb = new Scanner(System.in);
         System.out.print("Enter no ; ");
         int n = sb.nextInt();
-        //only  single output 
-        // if (n%2==0 ) 
-            // System.out.println(" evne no");  
+        only  single output 
+        if (n%2==0 ) 
+            System.out.println(" evne no");  
         
-        // else System.out.println("odd no.");
-        if (n%2==0) {
-            System.out.println("even no ");
-            System.out.println("rammmm");
+        else System.out.println("odd no.");
+        // if (n%2==0) {
+        //     System.out.println("even no ");
+        //     System.out.println("rammmm");
             
-        }
-        else {
-            System.out.println("odd no");
-            System.out.println("kala");
-        }
+        // }
+        // else {
+        //     System.out.println("odd no");
+        //     System.out.println("kala");
+        // }
     }
     
 }
