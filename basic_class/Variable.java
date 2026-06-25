@@ -5,20 +5,20 @@ public class Variable {
         int x;
         x =5;
         
-        // System.out.println(x);
-        // System.out.println(x+5);
-        // int y;
-        // y=20;
-        // System.out.println(y);
+        System.out.println(x);
+        System.out.println(x+5);
+        int y;
+        y=20;
+        System.out.println(y);
      
-        //    System.out.println(x*y);
+           System.out.println(x*y);
 
-        // if we print(x)or print (y) then multiplaye kr dega 
+        if we print(x)or print (y) then multiplaye kr dega 
         
-        // System.out.print(x);
-        // System.out.println(y);
-        // System.out.print(x+"ayush");
-        // System.out.println(y);
+        System.out.print(x);
+        System.out.println(y);
+        System.out.print(x+"ayush");
+        System.out.println(y);
 
         // variable uapdate
 
